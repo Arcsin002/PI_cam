@@ -23,6 +23,16 @@ Before ejecting the card there is one more step we need to take care of so that 
 
 Navigate to the SD card's directory and create a new text file named "wpa_supplicant.conf" and edit it with notepad++. Set up the configuration file like the example below and place your wifi SSID and password in the appropriate lines of the file, then change the line endings to linux with the following options in the top menu _Edit>EOL Conversion>Unix (LF)_. 
 
+```
+update_config=1
+ctrl_interface=/var/run/wpa_supplicant
+
+network=[
+	ssid="ssid"
+	psk="password"
+]
+```
+
 #### IMPORTANT NOTE: 
 this must be done after imaging the SD card but before MotionEye has been initialized on the raspberry pi.
 
