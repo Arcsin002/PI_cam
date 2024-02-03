@@ -2,7 +2,7 @@
 
 [![pi_hardware](https://user-images.githubusercontent.com/110564012/236584678-bbba299f-493c-4603-8ee0-4370afe01251.png)](https://user-images.githubusercontent.com/110564012/236584678-bbba299f-493c-4603-8ee0-4370afe01251.png)
 ### Cameras:
-Note: If the camera is inside a window do not use the night IR camera, it will reflect off the window. I've had one outside in a non watertight 3d case for months and has been fine so far.
+Note: If the camera is inside a window do not use the night IR camera, it will reflect off the window. I've had one outside in a non watertight 3d printed case for months and has been fine so far.
 
 Arducam 1080P Day & Night Vision USB Camera: https://www.amazon.com/Arducam-Computer-Automatic-Switching-All-Day/dp/B0829HZ3Q7
 Arducam 5MP Wide Angle USB Camera: https://www.amazon.com/Arducam-Camera-Computer-Without-Microphone/dp/B0972KK7BC
