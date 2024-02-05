@@ -27,10 +27,10 @@ Navigate to the SD card's directory and create a new text file named "wpa_suppli
 update_config=1
 ctrl_interface=/var/run/wpa_supplicant
 
-network=[
+network={
 	ssid="ssid"
 	psk="password"
-]
+}
 ```
 
 #### IMPORTANT NOTE: 
